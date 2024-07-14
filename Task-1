@@ -1,5 +1,5 @@
-#This Flask application implements user authentication with registration, login, and logout functionalities. 
-#It uses SQLAlchemy for database operations, Bcrypt for password hashing, and Flask-Login for session management.
+/*This Flask application implements user authentication with registration, login, and logout functionalities. 
+#It uses SQLAlchemy for database operations, Bcrypt for password hashing, and Flask-Login for session management.*/
 
 from flask import Flask, render_template, redirect, url_for, flash, request
 from flask_sqlalchemy import SQLAlchemy
