@@ -1,3 +1,5 @@
+**OVERVIEW OF THE PROJECT**
+
 Name : Abinaya P
 Company : CODTECH IT SOLUTIONS
 ID : CT4BD2890
@@ -5,12 +7,12 @@ Domain : Backend Development
 Duration : June 25,2024 to July 25,2024.
 Mentor : Santhosh Neela
 
-Project : BASIC AUTHENTICATION SYSTEM
+**Project : BASIC AUTHENTICATION SYSTEM**
 
-OBJECTIVE 
+**OBJECTIVE**
 The objective of this project is to create a secure user authentication system using Flask, enabling users to register, log in, and log out, with password hashing and session management.
 
-KEY ACTIVITIES 
+**KEY ACTIVITIES**
 
 
 1. **Setting Up Flask Application:**
