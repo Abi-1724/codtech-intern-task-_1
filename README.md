@@ -45,8 +45,6 @@ The objective of this project is to create a secure user authentication system u
 9. **Application Execution:**
    - Ensure the application runs in debug mode for development purposes.
   
-
-TECHNOLOGY USED 
 ### Technology Used in This Project
 
 1. **Flask:**
